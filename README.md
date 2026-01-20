@@ -1,1 +1,1 @@
-[Link to Website](https://zoltanhari.github.io/WyattLoats/)
+[Link to Website](https://wyattloats.github.io)
